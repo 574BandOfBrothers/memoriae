@@ -11,3 +11,13 @@ Group Members:
 | Mustafa Gönül | https://github.com/mustafagonul|
 | Mete Pınar    | https://github.com/metepinar   |
 | Emre Karpuz   | https://github.com/korem7      |
+
+
+## Development Repositories
+
+### API
+https://github.com/574BandOfBrothers/memoriae-api
+
+
+### APP 
+https://github.com/574BandOfBrothers/memoriae-app
