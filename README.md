@@ -21,3 +21,6 @@ https://github.com/574BandOfBrothers/memoriae-api
 
 ### APP 
 https://github.com/574BandOfBrothers/memoriae-app
+
+### UTILS 
+https://github.com/574BandOfBrothers/memoriae-utils
