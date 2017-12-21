@@ -4,14 +4,12 @@ This is the repo for the Boun 2017 SWE574 Fall project: Living History
 You can download our app from:
 http://memoriae.online/
 
-Group Members:
-
+![Architecture](https://github.com/574BandOfBrothers/memoriae-utils/blob/master/arch.png?raw=true)
 
 ## Development Repositories
 
 ### API
 https://github.com/574BandOfBrothers/memoriae-api
-
 
 ### APP 
 https://github.com/574BandOfBrothers/memoriae-app
@@ -20,7 +18,9 @@ https://github.com/574BandOfBrothers/memoriae-app
 https://github.com/574BandOfBrothers/memoriae-utils
 
 
-![Architecture](https://github.com/574BandOfBrothers/memoriae-utils/blob/master/arch.png?raw=true)
+
+
+Group Members:
 
 | Name          | Github        | 
 | ------------- |:-------------:|
