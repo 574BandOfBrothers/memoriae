@@ -29,4 +29,4 @@ https://github.com/574BandOfBrothers/memoriae-app
 https://github.com/574BandOfBrothers/memoriae-utils
 
 
-https://github.com/574BandOfBrothers/memoriae-utils/blob/master/arch.png?raw=true
+![Architecture](https://github.com/574BandOfBrothers/memoriae-utils/blob/master/arch.png?raw=true)
