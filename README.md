@@ -1,5 +1,7 @@
-# project memoriae
 ![](https://github.com/574BandOfBrothers/memoriae-app/blob/develop/src/assets/images/logo.png?raw=true)
+
+
+# project memoriae
 This is the repo for the Boun 2017 SWE574 Fall project: Living History. There are 3 sub-repositories for this project for coding and files(please check below for details); issue and project management is covered on current repository.
 
 ## Development Repositories
