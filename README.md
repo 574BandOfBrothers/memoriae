@@ -16,7 +16,7 @@ http://memoriae.online/
 ![Architecture](https://github.com/574BandOfBrothers/memoriae-utils/blob/master/arch2.png?raw=true)
 
 ## Agile Project Management
-https://github.com/574BandOfBrothers/memoriae/projects/1
+[Agile Board](https://github.com/574BandOfBrothers/memoriae/projects/1)
 
 ## The Team
 | Name          | Github        | 
