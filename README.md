@@ -1,4 +1,4 @@
-![](https://github.com/574BandOfBrothers/memoriae-app/blob/develop/src/assets/images/logo.png?raw=true)
+![](https://github.com/574BandOfBrothers/memoriae-utils/blob/master/Untitled%2011.png?raw=true)
 
 
 # project memoriae
